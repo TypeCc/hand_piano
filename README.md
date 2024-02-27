@@ -42,7 +42,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![hand](https://github.com/TypeCc/hand_piano/assets/118025810/c9bb0de2-68f0-4012-84aa-60becf046180)
 
 
-[hand.webm](https://github.com/TypeCc/hand_piano/assets/118025810/9126ff1e-9c7b-44a8-ae53-a2abe118253b)
+https://github.com/TypeCc/hand_piano/assets/118025810/29e11a33-a0cd-4e8a-ba77-5277adbffd2f
+
+
 
 
 
