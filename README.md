@@ -1,16 +1,50 @@
-# hand_piano
+# Hand Piano
 
-A new Flutter project.
+Hand Piano is a simple Flutter project that simulates a small electronic piano. When buttons are pressed, it produces corresponding sounds.
+
+## Description
+
+Hand Piano is a fun and interactive project built using Flutter, allowing users to play piano sounds by tapping on virtual keys. It's a great way to experience the joy of playing the piano on your mobile device.
+
+## Features
+
+- Virtual piano keys that produce sound when tapped
+- Easy-to-use interface
+- Responsive design for various screen sizes
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with Hand Piano, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your local machine.
+2. Open the project in your preferred IDE or code editor.
+3. Ensure you have Flutter and Dart installed on your machine.
+4. Run the project on an emulator or physical device using `flutter run`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hand Piano relies on the following dependencies:
+
+- flutter
+- dart
+
+You can find more details about these dependencies in the `pubspec.yaml` file.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+![hand](https://github.com/TypeCc/hand_piano/assets/118025810/c9bb0de2-68f0-4012-84aa-60becf046180)
+
+
+[hand.webm](https://github.com/TypeCc/hand_piano/assets/118025810/9126ff1e-9c7b-44a8-ae53-a2abe118253b)
+
+
+
+
+
