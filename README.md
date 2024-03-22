@@ -34,10 +34,6 @@ You can find more details about these dependencies in the `pubspec.yaml` file.
 
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ![hand](https://github.com/TypeCc/hand_piano/assets/118025810/c9bb0de2-68f0-4012-84aa-60becf046180)
 
